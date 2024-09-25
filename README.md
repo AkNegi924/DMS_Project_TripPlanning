@@ -2,6 +2,11 @@
 
 # Travel Recommender System and TSP Solver
 
+![Screenshot (623)](https://github.com/user-attachments/assets/a3635423-c09f-4756-abca-9b5fdc36ec22)
+![Screenshot (622)](https://github.com/user-attachments/assets/9b5df925-fb17-4b4d-9ee2-effeee6baac3)
+![Screenshot (621)](https://github.com/user-attachments/assets/fd32f44b-7594-410f-a900-48ea1fb2b326)
+![Screenshot (620)](https://github.com/user-attachments/assets/f3f85c74-271d-4919-a71e-53508608d6ad)
+![Screenshot (619)](https://github.com/user-attachments/assets/5f7153de-9777-4b00-8159-754b5b0d0a86)
 This Python application utilizes Flask and various libraries to provide travel recommendations based on user preferences and generate the optimal path for a trip using the Traveling Salesman Problem (TSP) solver.
 
 ## Execution Steps
